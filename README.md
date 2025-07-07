@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India I am a B.Tech CSE 2nd-year student at Graphic Era Hill University, passionate about web development and creating dynamic, interactive, and visually engaging websites. I love exploring new technologies and constantly improving my skills in HTML, CSS, JavaScript,React and modern frameworks**</h3>
 
 <img align="right" alt="coding" width=400px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantkartik&label=Profile%20views&color=0e75b6&style=flat" alt="pantkartik" /> </p>
 
