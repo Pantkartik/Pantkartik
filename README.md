@@ -36,9 +36,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CHAI PILADO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CHAI PILADO" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pantkartik&show_icons=true&locale=en&layout=compact" alt="pantkartik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pantkartik&show_icons=true&locale=en&layout=compact" alt="pantkartik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pantkartik&show_icons=true&locale=en" alt="pantkartik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&locale=en" alt="pantkartik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pantkartik&" alt="pantkartik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pantkartik&" alt="pantkartik" /></p>
 
