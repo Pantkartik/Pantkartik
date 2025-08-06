@@ -10,11 +10,11 @@
 </div>
 
 <!-- Responsive Coding GIF -->
-<div align="center">
+<div align="right">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" 
     alt="coding" 
-    width="70%" 
+    width="50%" 
     style="max-width:350px; border-radius:10px; min-width:220px; margin-top:10px;"
   />
 </div>
