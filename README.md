@@ -1,6 +1,6 @@
 <!-- Header Section with Greeting and LinkedIn Link -->
 <h1 align="center">
-  <img src="https://github.com/kartikPant1999/kartikPant1999/blob/main/hello.gif" alt="hello-gif">
+  <img src="https://github.com/nileshPant1999/nileshPant1999/blob/main/hello.gif" alt="hello-gif">
   <br>
   I'm <a href="https://www.linkedin.com/in/kartikpant/">Kartik Pant</a> 👨‍💻
 </h1>
