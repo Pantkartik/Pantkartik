@@ -1,84 +1,59 @@
-<!-- Centered main profile heading -->
-<div align="center">
-  <h1>Hi 👋, I'm KARTIK PANT</h1>
-  <h3>
-    A passionate frontend developer from India.<br>
-    2nd-year B.Tech CSE @ Graphic Era Hill University<br>
-    Focused on building interactive, visually-engaging web apps.<br>
-    Exploring new tech in HTML, CSS, JS, React & modern frameworks.
-  </h3>
-</div>
+<!-- Header Section with Greeting and LinkedIn Link -->
+<h1 align="center">
+  <img src="https://github.com/kartikPant1999/kartikPant1999/blob/main/hello.gif" alt="hello-gif">
+  <br>
+  I'm <a href="https://www.linkedin.com/in/kartikpant/">Kartik Pant</a> 👨‍💻
+</h1>
 
-<!-- Responsive Coding GIF -->
-<div align="right">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" 
-    alt="coding" 
-    width="50%" 
-    style="max-width:350px; border-radius:10px; min-width:220px; margin-top:10px;"
-  />
-</div>
+<!-- Hello World Section -->
+<h2 align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Hi GIF">
+  Hello world!&nbsp;
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" alt="Earth GIF">
+</h2>
 
-<!-- Profile Views Badge -->
+<!-- About Section with Image on the Right -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pantkartik&label=Profile%20views&color=0e75b6&style=flat" alt="pantkartik" /> 
+  I'm Kartik Pant, a Front end web developer and a tech enthusiast who loves building scalable microservices along with devops.
+</p>
+</br>
+
+<!-- About Me Section -->
+## 🧐 About Me
+<img align="right" alt="kartik GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="300px" />
+
+- 👨‍💻 React.js Developer
+- 🌱 Always eager to learn new technologies and help others.
+- 💻 All of my projects are available [here](https://github.com/pantkartik).
+- ⚡ In my free time, I enjoy listening to music or watching some series.
+- 📫 How to reach me: You can email me at [kartikpant.kp69@gmail.com](mailto:kartikpant.kp69@gmail.com).
+- 🧙‍♂️ Currently working on node.js.
+- 💬 Feel free to ask me about anything and everything!
+- 👯 And there’s always more...
+
+<!-- Tech Stack Section with Icons -->
+## ⚙ Tech Stack
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" height="40"/>
+  
+  
 </p>
 
-<!-- Trophies -->
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&&show_icons=true&&hide_border=false&&count_private=true&&include_all_commits=true" alt="Nilesh's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantkartik&&hide_border=false&&show_icons=true" alt="Nilesh's Streak Stats"/>
+</div>
+
+<!-- Top Languages Section -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pantkartik&theme=gruvbox&margin-w=15" alt="pantkartik"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantkartik&layout=compact" alt="Top Languages"/>
 </p>
-
-<!-- Social Badges -->
-<div align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/kartik-pant-459283322/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/lgaipmcrwx/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</div>
-
----
-
-### 🌱 I’m currently learning **NODE.JS**
-### 👯 Looking to collaborate on [generative-ai](https://github.com/Pantkartik/generative-ai)
-### 👨‍💻 [All Projects - My GitHub](https://github.com/Pantkartik?tab=repositories)
-### 💬 Ask me about **Frontend Development**
-### 📫 Reach me: **kartikpant.kp69@gmail.com**
-
----
-
-<!-- Language and Tool Icons -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap:15px;">
-  <!-- Repeat below for each tech -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <!-- ... (other icons) ... -->
-</div>
-
----
-
-<!-- GitHub Readme Stats (responsive and accurate) -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap:20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&theme=tokyonight&locale=en" width="350px" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pantkartik&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="350px" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pantkartik&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350px" alt="Top Languages"/>
-</div>
-
----
-
-<!-- Support - buy me a coffee button -->
-<div align="center">
-  <a href="https://www.buymeacoffee.com/CHAI PILADO">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</div>
