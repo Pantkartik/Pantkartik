@@ -1,84 +1,84 @@
-<h1 align="center">Hi 👋, I'm KARTIK PANT</h1>
-<h3 align="center">
-A passionate frontend developer from India.<br>
-I am a B.Tech CSE 2nd-year student at Graphic Era Hill University, passionate about web development and creating dynamic, interactive, and visually engaging websites.<br>
-I love exploring new technologies and constantly improving my skills in HTML, CSS, JavaScript, React and modern frameworks.
-</h3>
+<!-- Centered main profile heading -->
+<div align="center">
+  <h1>Hi 👋, I'm KARTIK PANT</h1>
+  <h3>
+    A passionate frontend developer from India.<br>
+    2nd-year B.Tech CSE @ Graphic Era Hill University<br>
+    Focused on building interactive, visually-engaging web apps.<br>
+    Exploring new tech in HTML, CSS, JS, React & modern frameworks.
+  </h3>
+</div>
 
-<img align="right" alt="coding" width=350px style="border-radius:5px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif">
-<br><br>
+<!-- Responsive Coding GIF -->
+<div align="center">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2N3RtbnZla2Yxd2pnOGZxbTB3MTJ2MnpnZDNxY2x4N3lzOTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" 
+    alt="coding" 
+    width="70%" 
+    style="max-width:350px; border-radius:10px; min-width:220px; margin-top:10px;"
+  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pantkartik&label=Profile%20views&color=0e75b6&style=flat" alt="pantkartik" /> </p>
-<br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pantkartik" alt="pantkartik" /></a> </p>
-<br><br>
-
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pantkartik&label=Profile%20views&color=0e75b6&style=flat" alt="pantkartik" /> 
 </p>
 
-- 🌱 I’m currently learning **NODE.JS**
-- 👯 I’m looking to collaborate on [generative-ai](https://github.com/Pantkartik/generative-ai)
-- 👨‍💻 All of my projects are available at [https://github.com/Pantkartik?tab=repositories](https://github.com/Pantkartik?tab=repositories)
-- 💬 Ask me about **Front-end Developer**
-- 📫 How to reach me **kartikpant.kp69@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kartik-pant-459283322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swift_light_91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lgaipmcrwx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kartikpac7rv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pantkartik&theme=gruvbox&margin-w=15" alt="pantkartik"/>
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CHAI PILADO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CHAI PILADO" /></a></p>
-<br><br>
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartik-pant-459283322/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/lgaipmcrwx/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pantkartik&show_icons=true&locale=en&layout=compact" alt="pantkartik" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&locale=en" alt="pantkartik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pantkartik&" alt="pantkartik" /></p>
+---
+
+### 🌱 I’m currently learning **NODE.JS**
+### 👯 Looking to collaborate on [generative-ai](https://github.com/Pantkartik/generative-ai)
+### 👨‍💻 [All Projects - My GitHub](https://github.com/Pantkartik?tab=repositories)
+### 💬 Ask me about **Frontend Development**
+### 📫 Reach me: **kartikpant.kp69@gmail.com**
+
+---
+
+<!-- Language and Tool Icons -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap:15px;">
+  <!-- Repeat below for each tech -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <!-- ... (other icons) ... -->
+</div>
+
+---
+
+<!-- GitHub Readme Stats (responsive and accurate) -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap:20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&theme=tokyonight&locale=en" width="350px" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pantkartik&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="350px" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pantkartik&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350px" alt="Top Languages"/>
+</div>
+
+---
+
+<!-- Support - buy me a coffee button -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/CHAI PILADO">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</div>
