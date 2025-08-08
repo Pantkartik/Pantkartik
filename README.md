@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://github.com/nileshPant1999/nileshPant1999/blob/main/hello.gif" alt="hello-gif">
   <br>
-  I'm <a href="https://www.linkedin.com/in/kartikpant/">Kartik Pant</a> 👨‍💻
+  I'm <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/kartik-pant-459283322/)">Kartik Pant</a> 👨‍💻
 </h1>
 
 <!-- Hello World Section -->
