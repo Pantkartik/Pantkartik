@@ -49,8 +49,8 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&&show_icons=true&&hide_border=false&&count_private=true&&include_all_commits=true" alt="kartik's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantkartik&&hide_border=false&&show_icons=true" alt="kartik's Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&&show_icons=true&&hide_border=false&&count_private=true&&include_all_commits=true" alt="kartik's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pantkartik&&hide_border=false&&show_icons=true" alt="kartik's Streak Stats"/>
 </div>
 
 <!-- Top Languages Section -->
