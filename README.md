@@ -158,6 +158,25 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 <!--       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td> -->
+      <br/>
+<!--              <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="firebase"/><br>Firebase
+      </td> -->
+      <div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">HOSTING/DEPLOYMENT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/><br>Firebase
+      </td>
+      <td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/><br>Heroku
+      </td>
     </tr>
   </tbody>
 </table>
