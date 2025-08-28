@@ -198,7 +198,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 <img height="237px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pantkartik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vision-friendly-dark" />
 </div>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pantkartik&custom_title=kartik's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
- <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="kartik's GitHub stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="kartik's GitHub stats">
 
 <h2 align="center">📫 Let's Connect!</h2>
 
