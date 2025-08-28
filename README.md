@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=pantkartik&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 ABOUT ME  </h2>
 
 As a versatile Computer Engineer and Frontend Developer, I specialize in ReactJS, Tailwind-css, Javascript,Python and C++. With a proven record of driving innovation, I am dedicated to harnessing advanced AI solutions to enhance productivity and promote creative problem-solving in technology. My passion for frontend technologies and UI development enables me to deliver exceptional results in complex and dynamic environments.
 
