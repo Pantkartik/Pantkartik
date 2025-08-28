@@ -208,7 +208,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 </p>
 <div align="center">
   
-⭐️ From [Kartik Pant](https://github.com/pantkartik) | Let's innovate together! 🚀
+⭐️ From [KartiK Pant](https://github.com/pantkartik) | Let's innovate together! 🚀
 
 </div>
 
