@@ -191,7 +191,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&theme=highcontrast&hide_border=true&show_icons=true&&hide_border=false&&count_private=true&&include_all_commits=true" alt="kartik's GitHub Stats"/> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pantkartik&&hide_border=false&&show_icons=true" alt="kartik's Streak Stats"/> -->
   
-  <img src="https://streak-stats.demolab.com/?user=Pantkartik&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pantkartik&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   
 <br>
 <div align="center">
