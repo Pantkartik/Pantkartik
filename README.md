@@ -52,7 +52,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Jagadishgollapalli" target="_blank">
+      <a href="https://github.com/pantkartik/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJagadishgollapalli&subtitle=%2Fpantkartik&size=square" alt="Github">
       </a>
     </td>
