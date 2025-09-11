@@ -200,7 +200,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pantkartik&custom_title=kartik's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
  <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="kartik's GitHub stats">
 
-<h2 align="center">📫 Let's Connect!</h2>
+<h2 align="center">📫 Let's connect</h2>
 
 <p align="center">
   <a href="mailto:kartikpant.kp69@gmail.com"><img src="https://img.shields.io/badge/Email-kartikpant.kp69@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
