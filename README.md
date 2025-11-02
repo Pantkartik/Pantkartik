@@ -124,8 +124,9 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="java"/><br>django
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="django"/><br>django
       </td>
+        
 <!--       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td> -->
