@@ -20,7 +20,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;Computer+Engineer;React+Developer;CPP;Python+Developer;" alt="Typing SVG" />
 </p>
 
-<!-- # Skills and Experience -->
+<!-- # Skills -->
 <!-- 
 [![Full Stack Developer](https://img.shields.io/badge/Java%20%26%20React%20Full%20Stack%20Developer%20with%204+%20Years%20of%20Experience-840032?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Java%20%26%20React%20Full%20Stack%20Developer%20with%204%20Years%20of%20Experience-840032) -->
 
