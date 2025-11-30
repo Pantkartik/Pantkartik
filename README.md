@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 ABOUT ME  </h2>
 
-As a versatile Computer Engineer and Frontend Developer, I specialize in ReactJS, Tailwind-css, Javascript,Python and C++. With a proven record of driving innovation, I am dedicated to harnessing advanced AI solutions to enhance productivity and promote creative problem-solving in technology. My passion for frontend technologies and UI development enables me to deliver exceptional results in complex and dynamic environments.
+As a versatile Computer Engineer and MERN Developer, I specialize in ReactJS, Tailwind-css, Javascript,Python and C++. With a proven record of driving innovation, I am dedicated to harnessing advanced AI solutions to enhance productivity and promote creative problem-solving in technology. My passion for frontend technologies and UI development enables me to deliver exceptional results in complex and dynamic environments.
 
 In addition to my technical expertise, I am a true epicure and melophile at heart, finding equal pleasure in the sensory delights of fine food and drink, as well as the soul-stirring sounds of music.
 
