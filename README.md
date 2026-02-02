@@ -107,13 +107,13 @@
 
 <div align="center">
   <!-- Top Row: Stats & Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&count_private=true&theme=omni&hide_border=true&bg_color=0d1117" height="150" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pantkartik&layout=compact&langs_count=6&theme=omni&hide_border=true&bg_color=0d1117&hide_title=true" height="150" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&show_icons=true&count_private=true&theme=omni&hide_border=true&bg_color=0d1117" height="150" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantkartik&layout=compact&langs_count=6&theme=omni&hide_border=true&bg_color=0d1117&hide_title=true" height="150" alt="Languages">
   
   <br><br>
 
   <!-- Middle Row: Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Pantkartik&theme=omni&hide_border=true&background=0d1117&ring=937DC2&currStreakLabel=8e2de2" alt="Streak" width="80%">
+  <img src="https://streak-stats.demolab.com/?user=pantkartik&theme=omni&hide_border=true&background=0d1117&ring=937DC2&currStreakLabel=8e2de2" alt="Streak" width="80%">
   
   <br><br>
 
