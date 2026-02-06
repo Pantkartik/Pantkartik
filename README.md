@@ -113,7 +113,7 @@
   <br><br>
 
   <!-- Middle Row: Streak -->
-  <img src="https://streak-stats.demolab.com/?user=pantkartik&theme=omni&hide_border=true&background=0d1117&ring=937DC2&currStreakLabel=8e2de2" alt="Streak" width="80%">
+  <img src="https://streak-stats.demolab.com/?user=Pantkartik&theme=omni&hide_border=true&background=0d1117&ring=937DC2&currStreakLabel=8e2de2" alt="Streak" width="80%">
   
   <br><br>
 
