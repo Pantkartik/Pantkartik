@@ -108,9 +108,20 @@
 <div align="center">
   <!-- Top Row: Stats & Languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=pantkartik&show_icons=true&count_private=true&theme=omni&hide_border=true&bg_color=0d1117&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=pantkartik
+  &show_icons=true
+  &count_private=true
+  &include_all_commits=true
+  &theme=omni
+  &hide_border=true
+  &bg_color=0d1117
+  &title_color=58a6ff
+  &icon_color=58a6ff
+  &text_color=c9d1d9
+  &cache_seconds=86400"
   height="150"
 />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantkartik&layout=compact&langs_count=6&theme=omni&hide_border=true&bg_color=0d1117&hide_title=true" height="150" alt="Languages">
   
