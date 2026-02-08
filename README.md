@@ -117,7 +117,7 @@
   <br><br>
 
   <!-- Middle Row: Streak -->
- <img src="https://github-readme-stats.vercel.app/api?username=pantkartik&show_icons=true&theme=tokyonight&hide_border=true" width="80%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Pantkartik&show_icons=true&theme=tokyonight&hide_border=true" width="80%" />
 
   
   <br><br>
