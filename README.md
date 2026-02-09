@@ -129,7 +129,7 @@
 
   <!-- Middle Row: Streak -->
  <img 
-  src="https://streak-stats.demolab.com?user=Pantkartik&theme=tokyonight&hide_border=true&background=000000" 
+  src="https://streak-stats.demolab.com?user=pantkartik&theme=tokyonight&hide_border=true&background=000000" 
   alt="Kartik's GitHub Streak"
 />
 
