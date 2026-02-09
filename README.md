@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Kartik%20Pant&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=24&fontColor=ffff40" width="100%" alt="Kartik Pant Header">
 </div>
 
-<!-- INTRO SECTION -->
+
 <div align="center">
   <h1>👋 Hello, World! I'm Kartik.</h1>
   <br>
