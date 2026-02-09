@@ -129,7 +129,7 @@
 
   <!-- Middle Row: Streak -->
  <img 
-  src="https://streak-stats.demolab.com?user=pantkartik&theme=tokyonight&hide_border=true&background=000000" 
+  src="https://streak-stats.demolab.com?user=Pantkartik&theme=tokyonight&hide_border=true&background=000000" 
   alt="Kartik's GitHub Streak"
 />
 
@@ -146,5 +146,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&desc=Let's%20Innovate%20Together%20%E2%9A%A1&fontSize=20&fontColor=ffffff" width="100%">
   <br>
-  <p align="center" style="font-size: 10px; color: grey;">(Index Keywords: Software Engineer, React Developer, MERN Stack, AI Integration, NextJS, Python, C++, Data Structures, Algorithms)</p>
+  <p align="center" style="font-size: 10 px; color: grey;">(Index Keywords: Software Engineer, React Developer, MERN Stack, AI Integration, NextJS, Python, C++, Data Structures, Algorithms)</p>
 </div>
