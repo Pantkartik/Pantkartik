@@ -128,10 +128,12 @@
   <br><br>
 
   <!-- Middle Row: Streak -->
- <img 
-  src="https://streak-stats.demolab.com?user=pantkartik&theme=tokyonight&hide_border=true&background=000000" 
+<img 
+  src="https://streak-stats.demolab.com?user=pantkartik&theme=tokyonight&hide_border=true&background=000000&cache_seconds=86400" 
   alt="Kartik's GitHub Streak"
 />
+
+
 
   
   <br><br>
