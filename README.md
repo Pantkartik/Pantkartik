@@ -59,9 +59,9 @@
 <div align="center">
   
   <!-- Frontend Block -->
-  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15px; border-radius: 15px; width: 80%;">
+  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15 px; border-radius: 15 px; width: 80 %;">
     <tr>
-      <td align="center" style="color: white; font-weight: bold; font-size: 1.2em;">🎨 Frontend Engineering</td>
+      <td align="center" style="color: white; font-weight: bold; font-size: 1.2 em;">🎨 Frontend Engineering</td>
     </tr>
     <tr>
       <td align="center">
@@ -73,9 +73,9 @@
   <br>
 
   <!-- Backend & DB Block -->
-  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15px; border-radius: 15px; width: 80%;">
+  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15 px; border-radius: 15 px; width: 80 %;">
     <tr>
-      <td align="center" style="color: white; font-weight: bold; font-size: 1.2em;">⚙️ Backend & Infrastructure</td>
+      <td align="center" style="color: white; font-weight: bold; font-size: 1.2 em;">⚙️ Backend & Infrastructure</td>
     </tr>
     <tr>
       <td align="center">
@@ -87,9 +87,9 @@
   <br>
 
   <!-- Tools Block -->
-  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15px; border-radius: 15px; width: 80%;">
+  <table style="background-color: #0d1117; border-collapse: separate; border-spacing: 15 px; border-radius: 15 px; width: 80 %;">
     <tr>
-      <td align="center" style="color: white; font-weight: bold; font-size: 1.2em;">🧰 DevOps & Tools</td>
+      <td align="center" style="color: white; font-weight: bold; font-size: 1.2 em;">🧰 DevOps & Tools</td>
     </tr>
     <tr>
       <td align="center">
@@ -128,7 +128,7 @@
   <br><br>
 
   <!-- Middle Row: Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pantkartik&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pantkartik&theme=tokyonight&hide_border=true)
 
 
 
