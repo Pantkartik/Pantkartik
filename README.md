@@ -137,7 +137,7 @@
   <br><br>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pantkartik&bg_color=0d1117&color=937DC2&line=8e2de2&point=ffffff&hide_border=true&area=true" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pantkartik&bg_color=0d1117&color=937DC2&line=8e2de2&point=ffffff&hide_border=true&area=true" width="95%" alt="Activity Graph">
 </div>
 
 <br>
