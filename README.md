@@ -8,8 +8,7 @@
   <br>
   <!-- Main ID Card Animation -->
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/776bc3101569427.5f226927909c9.gif" width="150" style="border-radius: 50%; border: 4px solid #8e2de2;" alt="Kartik Animation">
- <img src="images/resumebarcode.png" width="150" height="150" style="border-radius: 10 px;" alt="Resume QR">
-  <br><br> 
+ 
   <!-- <img width="150" height="150" alt="QR SCANNER" src="https://github.com/user-attachments/assets/b0ed8337-bea4-42e2-bfd6-29e3621851cf" />
 <br><br> -->
   <a href="https://git.io/typing-svg">
