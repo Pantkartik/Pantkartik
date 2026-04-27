@@ -128,7 +128,7 @@
   <br><br>
 
   <!-- Middle Row: Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pantkartik&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pantkartik&theme=tokyonight&hide_border=true)
 
 
 
