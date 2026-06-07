@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h1>👋 Hello, World! I'm Kartik.</h1>
+  <h1> Hello, World! I'm Kartik.</h1>
   <br>
   <!-- Main ID Card Animation -->
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/776bc3101569427.5f226927909c9.gif" width="150" style="border-radius: 50%; border: 4px solid #8e2de2;" alt="Kartik Animation">
@@ -23,7 +23,7 @@
 <br>
 
 <!-- BIO SECTION (SEO OPTIMIZED) -->
-<h2 align="center">🚀 Engineering Excellence & Innovation</h2>
+<h2 align="center">Engineering Excellence & Innovation</h2>
 
 <div align="center" style="max-width: 800px; margin: auto;">
   <p align="left">
@@ -38,7 +38,7 @@
 <br>
 
 <!-- CONNECT LINKS (BENTO STYLE) -->
-<h2 align="center">🌐 Connect & Collaborate</h2>
+<h2 align="center">Connect & Collaborate</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/kartik-pant-459283322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" alt="LinkedIn">
@@ -54,7 +54,7 @@
 <br>
 
 <!-- TECH STACK (PREMIUM BLACK BOX DESIGN) -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center"> Technical Arsenal</h2>
 
 <div align="center">
   
@@ -103,7 +103,7 @@
 <br>
 
 <!-- GITHUB STATS DASHBOARD -->
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
   <!-- Top Row: Stats & Languages -->
