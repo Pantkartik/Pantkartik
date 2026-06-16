@@ -27,6 +27,7 @@ test and try
 <h2 align="center">Engineering Excellence & Innovation</h2>
 
 <div align="center" style="max-width: 800px; margin: auto;">
+  test test 
   <p align="left">
     As a versatile <b>Computer Engineer</b> and <b>Full-Stack Developer</b>, I specialize in building scalable web applications using <b>ReactJS, Next.js, and Node.js</b>. My background in <b>C++ and Python</b> allows me to solve complex algorithmic challenges, while my passion for design ensures every pixel serves a purpose.
     <br><br>
