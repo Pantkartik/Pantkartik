@@ -16,8 +16,7 @@
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=pantkartik&color=blueviolet&style=flat-square&label=Profile+Traffic" alt="Profile View Counter">
-  </p>
+<img src="https://img.shields.io/badge/Profile%20Views-20K%2B-blueviolet?style=flat-square" alt="pantkartik">  </p>
 </div>
 
 <br>
